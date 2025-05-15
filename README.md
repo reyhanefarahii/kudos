@@ -1,6 +1,6 @@
 # Web Automation Test Project with Selenium
 
-This project contains Python code to perform web automation testing of the [Website Name] website using the Selenium library. The main goal of this code is to log into the user panel and submit a specific form on the website.
+This project contains Python code to perform web automation testing of the [https://panel.kudos.ir] website using the Selenium library. The main goal of this code is to log into the user panel and submit a specific form on the website.
 
 ## Prerequisites
 
